@@ -1,54 +1,28 @@
 # Introdução
 
-Imagine que você deseja apresentar este projeto para investidores que deverão decidir se investem ou não no desenvolvimento da sua ferramenta.
-
-A **Introdução** consiste das etapas: *Contextualização -- Definição do problema -- Definição dos Objetivos -- Justificativa*, e tem como função situar o seu trabalho dentro de um contexto de mercado e mostrar a importância da sua proposta para resolver a dor de um usuário.
-
-A Contextualização deve situar sem projeto em um determinado contexto de mercado, a fim de fornecer informações adicionais que possam ajudar a entender melhor o assunto que você irá abordar. Serve também para definir a relevância do seu assunto, uma vez que mostra o tamanho do mercado em que se está inserido. Ela pode envolver a análise de vários aspectos, como o ambiente histórico, cultural, político e social em que o problema a ser atacado surgiu.
-
-Escreva de 2 a 3 parágrafos para contetualizar o seu projeto.
+Vivemos em uma sociedade dinâmica e acelerada, onde inúmeras tarefas e responsabilidades disputam nossa atenção diariamente. Nesse contexto, a capacidade de organizar e planejar de forma eficiente se tornou essencial para lidar com a complexidade da vida moderna. Reconhecendo essa necessidade crescente, apresentamos uma ferramenta de organização desenvolvida para simplificar a gestão de compromissos, sejam eles pessoais ou profissionais, permitindo que os usuários mantenham o foco e otimizem seu tempo com eficácia.
+Nosso objetivo com este projeto é oferecer uma solução prática e acessível para o gerenciamento de tempo de maneira eficiente. A ferramenta dispõe de funcionalidades intuitivas e objetivas que não apenas auxiliam no planejamento, mas também otimizam a produtividade, incentivando um equilíbrio saudável entre as demandas cotidianas e os momentos de descanso. Combinando tecnologia funcional com uma abordagem simplificada e centrada no usuário, este projeto busca aperfeiçoar, de forma significativa, a maneira como organizamos nossos desafios diários.
 
 ## Problema
 
-Nesse momento você deve apresentar o problema que a sua aplicação deve resolver. No entanto, **não** é a hora de comentar sobre a solução/aplicação.
+O ritmo acelerado das pessoas em sua vida pessoal e profissional gera grandes desafios no gerenciamento do tempo, uma vez que muitos usuários têm pouca familiaridade com ferramentas de organização, o que os leva a dispersar informações em diferentes plataformas, como agendas físicas, aplicativos variados e agendas digitais dos celulares. Essa fragmentação não apenas dificulta a acessibilidade e o uso eficiente das informações, mas também contribui para aumentar a sensação de desordem e sobrecarga.
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de fato existir, pois ainda não é a hora de apresentar requisitos detalhados ou projetos.
-
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
-
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+Objetivo Geral:
+Desenvolver uma ferramenta tecnológica prática e acessível que auxilie os usuários a manterem uma rotina mais organizada, integrando em um único canal a gestão de compromissos e tarefas para otimizar o tempo e melhorar a produtividade.
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
  
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+  **Objetivos Específicos**:
+ - Criar uma plataforma intuitiva e simplificada que facilite a organização de atividades diárias, adequada às necessidades de usuários com diferentes níveis de familiaridade com tecnologias.
+ - Oferecer recursos centralizados para consolidar informações dispersas em múltiplos canais, proporcionando maior clareza, acessibilidade e eficiência no planejamento de rotinas pessoais e profissionais.
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
-
-Lembre-se de pesquisar e utilizar números que justifiquem por que é importante que tal problema seja resolvido ou que mostrem o impacto do problema na vida das pessoas.
-
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
-
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+A gestão eficiente do tempo é um elemento crucial na busca por qualidade de vida e produtividade, especialmente diante de um cenário onde 62% dos brasileiros, segundo o ISMA-BR (International Stress Management Association – Brasil), enfrentam a falta de tempo devido à sobrecarga de tarefas. A desorganização e a fragmentação de informações em múltiplos canais amplificam o problema, causando atrasos, compromissos perdidos, estresse elevado e uma queda significativa na produtividade, impactando diretamente a rotina e o bem-estar de indivíduos e empresas.
+Com esse panorama, nosso projeto visa criar uma aplicação tecnológica prática e intuitiva que centralize e simplifique a organização das tarefas cotidianas. Ao oferecer uma solução adequada a diferentes perfis de usuários, buscamos não apenas otimizar o uso do tempo, mas também reduzir o estresse e promover equilíbrio no dia-a-dia.
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações hierárquicas, etc.
-
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
-
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+O público-alvo deste projeto de desenvolvimento de software é composto por indivíduos e profissionais que enfrentam dificuldades na gestão de tempo e organização pessoal devido à sobrecarga de tarefas e à fragmentação de informações. Isso inclui pessoas com rotinas agitadas, que buscam uma solução prática para centralizar suas atividades diárias, bem como usuários com baixa familiaridade com ferramentas tecnológicas, mas que necessitam de uma aplicação intuitiva e acessível. 
